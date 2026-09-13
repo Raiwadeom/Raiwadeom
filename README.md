@@ -1,4 +1,4 @@
-# Om Raiwade
+# Omrushikesh Raiwade
 
 **Student developer from Udgir, Maharashtra — I build software my college actually runs on.**
 
