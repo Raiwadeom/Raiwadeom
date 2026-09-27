@@ -11,7 +11,7 @@ I work mostly in React Native, Next.js and Firebase. The problems I enjoy are th
 ## Projects
 
 ### 🩸 RaktSetu — blood donor network
-**Android · Google Play** · [Code](https://github.com/Raiwadeom/raktsetu)
+**Android · Google Play**
 
 Connects people who urgently need blood with nearby verified volunteer donors.
 
@@ -30,12 +30,12 @@ Scans upload **browser-to-Cloudinary through signed requests**, so large images 
 
 `Next.js` · `Firebase Auth` · `Firestore` · `Cloudinary` · `Vercel`
 
-### 📚 DyanSetu — learning platform
+### 📚 DnyanSetu — learning platform
 **Live:** [www.dnyansetu.online](https://www.dnyansetu.online) · [Code](https://github.com/Raiwadeom/dyansetu)
 
-A quiz-based learning app, deployed on Vercel with serverless API routes and Firebase behind it.
+A quiz-based learning app, deployed on Vercel with serverless API routes and Supabase behind it.
 
-`Vite` · `JavaScript` · `Firebase` · `Vercel Serverless`
+`Vite` · `React` · `Supabase` · `Vercel Serverless`
 
 ---
 
