@@ -10,17 +10,6 @@ I work mostly in React Native, Next.js and Firebase. The problems I enjoy are th
 
 ## Projects
 
-### 🩸 RaktSetu — blood donor network
-**Android · Google Play**
-
-Connects people who urgently need blood with nearby verified volunteer donors.
-
-Matching runs on real **red-cell compatibility**, not exact blood-group equality — so a request for A+ also reaches O−, O+ and A− donors. Matching on equality alone would have silently excluded most of the people who could actually help. Donor profiles are ID-verified by an admin before anyone can post or answer a request, and every request is tracked through to closure.
-
-Built without a paid backend: donor matching, notification fan-out and push delivery all run client-side against Firestore security rules, with no Cloud Functions.
-
-`React Native` · `Expo` · `TypeScript` · `Firebase` · `Firestore Rules` · `FCM` · `EAS Build`
-
 ### 📰 CSM News Desk — press-cutting archive
 **Live:** [csmnewsdesk.com](https://csmnewsdesk.com) · [Code](https://github.com/Raiwadeom/csm-news-desk)
 
