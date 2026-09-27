@@ -22,7 +22,7 @@ Built without a paid backend: donor matching, notification fan-out and push deli
 `React Native` · `Expo` · `TypeScript` · `Firebase` · `Firestore Rules` · `FCM` · `EAS Build`
 
 ### 📰 CSM News Desk — press-cutting archive
-**Live:** [csm-news-desk.vercel.app](https://csm-news-desk.vercel.app) · [Code](https://github.com/Raiwadeom/csm-news-desk)
+**Live:** [csmnewsdesk.com](https://csmnewsdesk.com) · [Code](https://github.com/Raiwadeom/csm-news-desk)
 
 A Pinterest-style public archive of the college's newspaper cuttings. Anyone can browse, open a cutting full-screen and download it — no sign-in. Administrators sign in separately to upload, sort into collections and set publication dates.
 
@@ -31,7 +31,7 @@ Scans upload **browser-to-Cloudinary through signed requests**, so large images 
 `Next.js` · `Firebase Auth` · `Firestore` · `Cloudinary` · `Vercel`
 
 ### 📚 DyanSetu — learning platform
-**Live:** [dyansetu.vercel.app](https://dyansetu.vercel.app) · [Code](https://github.com/Raiwadeom/dyansetu)
+**Live:** [www.dnyansetu.online](https://www.dnyansetu.online) · [Code](https://github.com/Raiwadeom/dyansetu)
 
 A quiz-based learning app, deployed on Vercel with serverless API routes and Firebase behind it.
 
